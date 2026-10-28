@@ -9,7 +9,7 @@ Developed an interactive Power BI dashboard to analyze food order trends, restau
 .Evaluate delivery performance and cancellation trends.
 
 ## Key Features
-. Top 10 Restaurants by Revenue
+*Top 10 Restaurants by Revenue
 . Top 10 Most Ordered Cuisines
 .City-Wise Order Status Distribution
 .Premium, New, and Repeat Customer Segmentation
