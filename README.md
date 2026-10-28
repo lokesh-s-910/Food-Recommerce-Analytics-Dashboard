@@ -3,7 +3,7 @@
 Developed an interactive Power BI dashboard to analyze food order trends, restaurant performance, customer segmentation, and delivery efficiency
 
 ## Objective
-.Analyze overall orders and revenue performance.
+- Analyze overall orders and revenue performance.
 .Identify top-performing and rated restaurants and cuisines.
 .Understand customer ordering behavior.
 .Evaluate delivery performance and cancellation trends.
